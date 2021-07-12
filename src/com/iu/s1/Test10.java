@@ -45,7 +45,7 @@ public class Test10 {
 		System.out.println(result);
 		
 		
-		//GitHub 사용하기
+		//GitHub 사용하기 수정
 		
 		
 		
